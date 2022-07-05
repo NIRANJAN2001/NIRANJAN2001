@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NIRANJAN2001
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on Image Processing
+- 🌱 I’m currently learning Java
 - 📫 How to reach me niranjan.naidu.nv2001@gmail.com
 
 <!---
