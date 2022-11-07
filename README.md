@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NIRANJAN2001
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, HTML & My SQL
 - 📫 How to reach me niranjan.naidu.nv2001@gmail.com
 
 <!---
